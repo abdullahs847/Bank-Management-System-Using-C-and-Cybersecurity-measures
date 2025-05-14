@@ -1,0 +1,6 @@
+abdullah Deposit 50000 Approved
+abdullah Deposit 50000 Approved
+abdullah Withdraw 60000 Approved
+abdullah Withdraw 3000 Rejected
+ali Deposit 170000 Approved
+ali Withdraw 50000 Approved

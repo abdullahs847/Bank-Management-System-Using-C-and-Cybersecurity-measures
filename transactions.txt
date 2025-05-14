@@ -1,0 +1,7 @@
+abdullah Deposit 200000
+abdullah Withdraw 120000
+abdullah Deposit 50000
+abdullah Deposit 50000
+abdullah Withdraw 60000
+ali Deposit 170000
+ali Withdraw 50000
